@@ -1,0 +1,2 @@
+prompt --> I broke up with my girlfriend
+response --> invalid query
